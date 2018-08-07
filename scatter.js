@@ -6,8 +6,8 @@ var readline = require('readline');
 
 
 //acquiring plotly
-var username = 'sharmaanix';
-var api_key = 'z79WUecuZjHlLHT0ukkq';
+var username = 'username';
+var api_key = 'api_key';
 var plotly = require('plotly')(username, api_key);
 
 
